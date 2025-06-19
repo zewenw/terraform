@@ -2,3 +2,4 @@
 !*.tf
 !*.tfvars
 !.gitignore
+!*.hcl
